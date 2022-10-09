@@ -1,9 +1,6 @@
-# achievable-core
-Achievable is a modern productivity tool to insure you complete what's most important in your life first
-
 ---
-**NOTE**
+**Achievable-core**
 
-It works with almost all markdown flavours (the below blank line matters).
+Achievable is a modern productivity tool to insure you complete what's most important in your life first
 
 ---
