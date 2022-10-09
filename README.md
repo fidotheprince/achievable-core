@@ -1,1 +1,1 @@
->  __Achievable__ is a modern productivity tool to insure you complete what's most important in your life first
+__Achievable__ is a modern productivity helps tool to insure you complete what's most important in your life first
